@@ -1,4 +1,4 @@
-import { Facebook, Instagram, MessageCircle, Music2 } from 'lucide-react';
+import { Facebook, Instagram, Music2 } from 'lucide-react';
 import { BrandProfile, SocialLink } from './types';
 
 export const BRAND_PROFILE: BrandProfile = {
